@@ -49,7 +49,7 @@ This engine can serve as a foundation for more advanced recommenders using hybri
 ---
 ##OUTPUT
 
-
+<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/215f4a45-d3bc-40cc-9380-9fcbe896241f" />
 
 ## ▶️ How to Run
 
