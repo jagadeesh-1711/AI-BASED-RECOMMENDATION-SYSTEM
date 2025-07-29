@@ -52,17 +52,14 @@ This engine can serve as a foundation for more advanced recommenders using hybri
 - Java JDK 8 or higher
 - Apache Maven
 - dataset.csv (with user-item-rating format, e.g., `1,101,5.0`)
-
 ---
-
-##PowerShell command 
+## PowerShell command 
 ```bash
 cd "C:\Users\Welcome\Downloads\TASK - 4"
 mvn clean
 mvn compile
 mvn exec:java
 ```
-
 ---
 ## OUTPUT
 
