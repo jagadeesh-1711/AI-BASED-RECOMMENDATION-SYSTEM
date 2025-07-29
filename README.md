@@ -1,7 +1,5 @@
 # AI-BASED-RECOMMENDATION-SYSTEM
 
-# FILE-HANDLING-UTILITY
-
 *COMPANY*:CODTECH IT SOLUTIONS
 
 *NAME* : JAGADEESHWARAN T
@@ -47,9 +45,6 @@ This project is ideal for demonstrating how collaborative filtering works and ho
 This engine can serve as a foundation for more advanced recommenders using hybrid approaches (e.g., combining content-based + collaborative).
 
 ---
-##OUTPUT
-
-<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/215f4a45-d3bc-40cc-9380-9fcbe896241f" />
 
 ## ▶️ How to Run
 
@@ -58,9 +53,17 @@ This engine can serve as a foundation for more advanced recommenders using hybri
 - Apache Maven
 - dataset.csv (with user-item-rating format, e.g., `1,101,5.0`)
 
-### 💾 Step-by-Step Guide
+---
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/mahout-recommender.git
-   cd mahout-recommender
+##PowerShell command 
+```bash
+cd "C:\Users\Welcome\Downloads\TASK - 4"
+mvn clean
+mvn compile
+mvn exec:java
+```
+
+---
+## OUTPUT
+
+<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/215f4a45-d3bc-40cc-9380-9fcbe896241f" />
